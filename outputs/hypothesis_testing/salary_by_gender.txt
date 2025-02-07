@@ -1,0 +1,2 @@
+T-test for Salary by Gender:
+t_stat=2.055893272628483, p_value=0.03979810864447469

@@ -1,0 +1,2 @@
+Shapiro-Wilk test for salary: p_value=6.723456251548409
+Shapiro-Wilk test for performance score: p_value=1.1119501162357369

@@ -1,0 +1,1 @@
+Levene's test for homogeneity of variances: p_value=LeveneResult(statistic=np.float64(19.36866519242758), pvalue=np.float64(1.0798515215643254e-05))

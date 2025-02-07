@@ -1,0 +1,15 @@
+Explaining model: LightGBM
+Preparation of a new explainer is initiated
+
+  -> data              : 39722 rows 43 cols
+  -> target variable   : Parameter 'y' was a pandas.Series. Converted to a numpy.ndarray.
+  -> target variable   : 39722 values
+  -> model_class       : lightgbm.sklearn.LGBMClassifier (default)
+  -> label             : Not specified, model's class short name will be used. (default)
+  -> predict function  : <function yhat_proba_default at 0x000001AEF30479C0> will be used (default)
+  -> predict function  : Accepts pandas.DataFrame and numpy.ndarray.
+  -> predicted values  : min = 0.0564, mean = 0.0924, max = 0.102
+  -> model type        : classification will be used (default)
+  -> residual function : difference between y and yhat (default)
+  -> residuals         : min = -0.102, mean = 0.283, max = 0.944
+  -> model_info        : package lightgbm

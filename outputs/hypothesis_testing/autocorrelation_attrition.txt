@@ -1,0 +1,1 @@
+Durbin-Watson Test for Autocorrelation in Turnover Risk Index: dw_stat=0.48520544589294495

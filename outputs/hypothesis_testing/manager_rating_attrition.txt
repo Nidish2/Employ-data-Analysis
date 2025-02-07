@@ -1,0 +1,2 @@
+T-test for Manager Ratings and Attrition:
+t_stat=0.38636059182632726, p_value=0.6992312872751839

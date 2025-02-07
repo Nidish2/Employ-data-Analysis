@@ -1,0 +1,43 @@
+Feature,Importance
+BUSINESS_UNIT,0.030504294
+gender_full,0.02842841
+absenteeism_rate,0.028133357
+post_promotion_performance,0.027159184
+tenure_bucket,0.02673153
+STATUS_YEAR,0.026672296
+turnover_risk_index,0.026656058
+overtime_hours,0.026652891
+salary_hike_percent,0.026638681
+self_rating,0.025951728
+Student Performance Rating,0.02595085
+working_hours,0.025731029
+peer_feedback_score,0.025474885
+manager_rating,0.025380826
+engagement_index,0.025326867
+work_life_balance_score,0.025007825
+store_name,0.024993833
+termreason_desc,0.024693988
+length_of_service,0.024676366
+GENERAL APPEARANCE,0.024535377
+salary,0.024505058
+performance_improvement,0.024430323
+ABILITY TO PRESENT IDEAS,0.024352431
+city_name,0.024345264
+last_promotion_date,0.024295952
+performance_score,0.024149118
+months_since_last_promotion,0.024096237
+employee_satisfaction_score,0.024072856
+SELF-CONFIDENCE,0.023925956
+orighiredate_key,0.023511596
+job_title,0.023107285
+department_name,0.022991763
+CLASS,0.022882838
+MENTAL ALERTNESS,0.02204411
+age,0.021799507
+MANNER OF SPEAKING,0.02117935
+COMMUNICATION SKILLS,0.020576768
+termtype_desc,0.020472104
+PHYSICAL CONDITION,0.020176271
+terminationdate_key,0.019069493
+EmployeeID,0.018715508
+absenteeism_category,0.0

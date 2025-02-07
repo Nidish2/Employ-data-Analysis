@@ -1,0 +1,2 @@
+Pearson correlation between work-life balance and satisfaction:
+corr=-0.11236280110284477, p_value=3.2685266718373533e-139

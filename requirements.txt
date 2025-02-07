@@ -1,0 +1,26 @@
+pip install pandas numpy openpyxl
+pip install scikit-learn xgboost lightgbm 
+pip install matplotlib seaborn plotly
+pip install streamlit dash
+pip install flask fastapi uvicorn
+pip install docker
+pip install geopandas matplotlib plotly
+pip install fiona shapely pyproj rasterio
+pip install seaborn
+pip install statsmodels    
+pip install eli5
+pip install shap --pre 
+pip install shap
+pip install xgboost
+pip install pandas
+pip install llvmlite
+pip install numba
+pip install joblib
+pip install dash-bootstrap-components
+git lfs install
+pip install dash-extensions
+pip install category_encoders
+pip install -U kaleido
+pip install scipy
+pip install dalex
+pip install lime
